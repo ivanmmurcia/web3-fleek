@@ -94,12 +94,14 @@ export default function Home() {
         <a
           href="https://fleek.co/"
           target="_blank"
+          rel="noreferrer"
         >
           Powered by fleek
         </a>
         <a
           href="https://github.com/ivanmmurcia/web3-fleek"
           target="_blank"
+          rel="noreferrer"
         >
           Made by ivanmmurcia
         </a>
